@@ -3,7 +3,7 @@ from typing import List
 
 PROJECT_NAME = "Write compelte project name here"
 VERSION = "0.0.1"
-AUTHOR = "Shivan Kumar"
+AUTHOR = "akash kumar"
 DESCRIPTION ="This is project pro course"
 
 REQUIREMENTS_FILE_NAME = "requirements.txt"
