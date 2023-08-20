@@ -1,0 +1,21 @@
+# Data Ingestion
+
+1. config file
+2. config_entity
+3. Configuration File
+4. Constant
+5. Data Ingestion
+6. utils
+7. Pipeline Configuration
+8. Main file
+
+
+# Data Validation
+
+1. Config Done
+2. config config_entity Done
+3. Configuration -> Done
+4. Data Validation
+5. utils
+6. Pipeline Configuration
+7. main
